@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Akronim');
+@import url('https://fonts.googleapis.com/css?family=Merienda');
+h1 {
+font-family: 'Akronim', cursive;
+font-size: 100px;
+}
+p {
+color: black;
+font-family: 'Merienda', cursive;
+}
+body {
+background-color:#4dffb8;
+}
+<style>
+div {
+  height: 100px;
+  width: 50%;
+}
